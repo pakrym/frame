@@ -1,0 +1,12 @@
+CACHE MANIFEST
+
+index.htm;
+instafeed.min.js
+dark_pattern.jpg
+PhotoClock.js
+style.css
+
+NETWORK:
+https://code.jquery.com/
+https://cdnjs.cloudflare.com/
+#v4
